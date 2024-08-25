@@ -1,18 +1,17 @@
 # Teeth Classification
 # Overview
-This repository contains a machine learning project focused on classifying dental images into different disease categories. The project utilizes convolutional neural networks (CNNs) to analyze and classify images of teeth based on various conditions.
+Classify dental images into disease categories using CNNs. The project leverages advanced machine learning techniques to analyze and accurately categorize various dental conditions.
 
 # Dataset
 The dataset used in this project is the "Teeth Dataset," which includes images categorized into the following disease classes:
 
-CaS (Caries)
-CoS (Crown)
-Gum (Gum Diseases)
-MC (Mouth Cancers)
-OC (Oral Cancers)
-OLP (Oral Lichen Planus)
-OT (Other Types)
-The dataset is augmented to balance the number of images per category, with each class reaching 1000 images.
+- CaS (Caries)
+- CoS (Crown)
+- Gum (Gum Diseases)
+- MC (Mouth Cancers)
+- OC (Oral Cancers)
+- OLP (Oral Lichen Planus)
+- OT (Other Types)
 
 # Features
 Data Augmentation: Techniques used to increase the dataset size and variability.
@@ -23,9 +22,9 @@ Visualization: Tools for visualizing images and their classifications, including
 # Installation
 To run this project, you will need Python and the following libraries:
 
-TensorFlow
-Keras
-NumPy
-Matplotlib
-Pillow
-Scikit-learn
+- TensorFlow
+- Keras
+- NumPy
+- Matplotlib
+- Pillow
+- Scikit-learn
