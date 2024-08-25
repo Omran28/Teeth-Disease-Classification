@@ -14,10 +14,10 @@ The dataset used in this project is the "Teeth Dataset," which includes images c
 - OT (Other Types)
 
 # Features
-Data Augmentation: Techniques used to increase the dataset size and variability.
-Model Architecture: Custom CNN architectures designed for classifying dental images.
-Evaluation: Metrics and methods used to evaluate model performance on training, validation, and test sets.
-Visualization: Tools for visualizing images and their classifications, including grid-based displays of example images.
+- Data Augmentation: Techniques used to increase the dataset size and variability.
+- Model Architecture: Custom CNN architectures designed for classifying dental images.
+- Evaluation: Metrics and methods used to evaluate model performance on training, validation, and test sets.
+- Visualization: Tools for visualizing images and their classifications, including grid-based displays of example images.
 
 # Installation
 To run this project, you will need Python and the following libraries:
