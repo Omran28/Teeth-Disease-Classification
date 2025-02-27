@@ -1,7 +1,8 @@
 # Teeth Classification
 # Overview
-Classify dental images into disease categories using CNNs and Deep Learning models like MobileNet V2. 
-The project leverages advanced machine learning techniques to analyze and accurately categorize various dental conditions.
+Uses CNNs and MobileNetV2 to accurately classify dental images into disease categories.
+Leverages deep learning techniques for precise detection and diagnosis of dental conditions.
+Features a Streamlit web app for seamless image uploads and real-time predictions.
 
 # Dataset
 The dataset used in this project is the "Teeth Dataset," which includes images categorized into the following disease classes:
