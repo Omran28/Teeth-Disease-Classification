@@ -50,13 +50,14 @@ An **AI-powered dental disease classification system** that uses **deep learning
 ## 📊 Results  
 
 ### 🏠 Home Page  
-![Home](images/home.png)  
+![Home](images/Home.png)  
 
-### 📂 Upload Image  
-![Upload Image](images/upload.png)  
+### 📤 Model Summary  
+![Model Summary](images/Model_summary.png)  
 
-### 📤 Image Uploaded  
-![Image Uploaded](images/uploaded.png)  
+### 📂 Results 
+![Results](images/Result_1.png)
+![Results](images/Result_2.png)
 
 ### 📊 Classification Results  
 ![Results](images/results.png)  
