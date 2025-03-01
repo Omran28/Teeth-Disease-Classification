@@ -5,9 +5,9 @@
 - [🚀 Features](#-features)  
 - [🏗 Model Summary](#-model-summary)  
 - [📈 Performance](#-performance)  
-- [✔️ Classification Report](#-classification-report)  
+- [📊 Classification Report](#-classification-report)  
 - [🛠 Technologies Used](#-technologies-used)  
-- [📊 Results](#-results)  
+- [📸 Results](#-results)  
 
 ## 🔍 Overview  
 An **AI-powered dental disease classification system** that uses **deep learning** and **computer vision** to diagnose various dental conditions from images. This model helps automate and improve dental diagnostics for professionals.  
@@ -29,12 +29,12 @@ An **AI-powered dental disease classification system** that uses **deep learning
 🔹 **Test Accuracy:** `97.0%`  
 🔹 **High Precision & Recall Across All Classes**  
 
-## ✔️ Classification Report  
+## 📊 Classification Report  
 | Class                 | Precision | Recall | F1-Score | Support |  
 |-----------------------|-----------|--------|----------|---------|  
 | 🦷 **Caries (CaS)**  | `0.92` | `0.99` | `0.96` | `160` |  
-| 🏅 **Crown (CoS)**   | `1.00` | `0.97` | `0.98` | `149` |  
-| 🌿 **Gum Diseases**  | `0.97` | `0.97` | `0.97` | `120` |  
+| 👑 **Crown (CoS)**   | `1.00` | `0.97` | `0.98` | `149` |  
+| 🪥 **Gum Diseases**  | `0.97` | `0.97` | `0.97` | `120` |  
 | 🎗 **Mouth Cancers** | `0.96` | `0.98` | `0.97` | `180` |  
 | 🩸 **Oral Cancers**  | `0.99` | `0.96` | `0.98` | `108` |  
 | 🛡 **OLP**           | `0.99` | `0.94` | `0.96` | `180` |  
@@ -47,15 +47,18 @@ An **AI-powered dental disease classification system** that uses **deep learning
 🔹 **Scikit-learn** – Model evaluation  
 🔹 **Matplotlib & Pillow** – Image visualization  
 
-## 📊 Results  
+## 📸 Results  
 
 ### 🏠 Home Page  
 ![Home](images/Home.png)  
 
-### 📤 Model Summary  
+### 🏗 Model Summary  
 ![Model Summary](images/Model_summary.png)  
 
-### 📊 Results 
-![Result 1](images/Result_1.png)
+### 📊 Classification Results  
 
-![Result 2](images/Result_2.png)
+#### ✅ **Example 1**  
+![Result 1](images/Result_1.png)  
+
+#### ✅ **Example 2**  
+![Result 2](images/Result_2.png)  
