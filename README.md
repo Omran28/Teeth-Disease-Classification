@@ -1,4 +1,4 @@
-# 🦷 Teeth Classification 🏥  
+# 🦷 Teeth Disease Classification 🏥  
 
 ## 📖 Table of Contents  
 - [🔍 Overview](#-overview)  
