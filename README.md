@@ -62,3 +62,5 @@ An **AI-powered dental disease classification system** that uses **deep learning
 
 #### ✅ **Example 2**  
 ![Result 2](images/Result_2.png)  
+
+run: streamlit run your_app.py
